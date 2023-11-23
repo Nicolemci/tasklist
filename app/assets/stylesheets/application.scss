@@ -1,1 +1,11 @@
-@import "tasks";
+
+
+.tasks-header {
+  font-size: 36px; /* Adjust the font size as needed */
+  text-align: center;
+  color: #3588db; /* Change to your desired color */
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+  height: 100px;
+}
